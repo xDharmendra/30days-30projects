@@ -1,6 +1,7 @@
 # 30 Days - 30 Projects
 
-> Visit **[Website](https://damu48.github.io/30days-30projects/)**
+To explore the projects, visit the portfolio [here](https://xdharmendra.github.io/30days-30projects/). Click on any project card to view its live demo.
+
 ![Project](img.png)
 
 ## Description
@@ -39,15 +40,11 @@ Each project is presented as a card in a grid layout, making it easy to navigate
 
 This portfolio not only serves as a personal record of progress but also as a demonstration of growing proficiency in web development over a structured period.
 
-## Getting Started
-
-To explore the projects, visit the portfolio [here](#). Click on any project card to view its live demo.
-
 ## Installation
 
 If you'd like to run the projects locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/30-days-30-projects.git
+   git clone https://github.com/xDharmendra/E-commerce-Website.git
 
