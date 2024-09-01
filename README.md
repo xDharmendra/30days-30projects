@@ -4,6 +4,9 @@ To explore the projects, visit the portfolio [here](https://xdharmendra.github.i
 
 ![Project](img.png)
 
+## Technologies Used
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+
 ## Description
 
 The **"30 Days - 30 Projects"** portfolio showcases a diverse collection of web development projects, each designed and implemented within a span of 30 days. This project series covers a wide range of web development concepts, from interactive UI components to dynamic animations, aimed at sharpening front-end development skills.
